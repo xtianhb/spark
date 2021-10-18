@@ -1,0 +1,5 @@
+#jupyter notebook
+alias jn='jupyter notebook'
+
+#env pyspark activate
+alias a-spark='source ~/envs/spark/bin/activate'

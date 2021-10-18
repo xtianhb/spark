@@ -1,0 +1,4 @@
+jupyter
+pyspark
+py4j
+findspark
